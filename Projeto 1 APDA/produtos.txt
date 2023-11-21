@@ -1,0 +1,8 @@
+zinco;1
+anil;2
+galak;3
+cobre;4
+linho;5
+cobalto;6
+prata;7
+platina;8
